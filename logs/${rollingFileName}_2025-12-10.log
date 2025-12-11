@@ -1,7 +1,0 @@
-[DEBUG] 2025-12-10 16:26:41,887 TestNG.debug() - suiteXmlPath: "E:\EclipseAutomation\OpencartV121\master.xml"
-[INFO ] 2025-12-10 16:26:53,673 TC_001_AccountRegistrationTest.verify_account_registration() - ********Starting the Execution**********
-[INFO ] 2025-12-10 16:26:53,871 TC_001_AccountRegistrationTest.verify_account_registration() - ********Clicked on my account link**********
-[INFO ] 2025-12-10 16:26:54,598 TC_001_AccountRegistrationTest.verify_account_registration() - ********Clicked on my register link**********
-[INFO ] 2025-12-10 16:26:59,084 TC_001_AccountRegistrationTest.verify_account_registration() - ********Validating expected message**********
-[INFO ] 2025-12-10 16:26:59,226 TC_001_AccountRegistrationTest.verify_account_registration() - ********Finished test case**********
-[INFO ] 2025-12-10 16:27:04,748 TC_002_LoginTest.verify_login() - ****** Startign TC_002_LoginTest *****
